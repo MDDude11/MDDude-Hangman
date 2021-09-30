@@ -46,7 +46,7 @@ guessed = []
 # char varibale -> will save every key that we press on keyboard
 char = ""
 hangman_tries = 5
-
+#yes sir!
 
 while True:
   allevents = event.get()
